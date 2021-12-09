@@ -1,2 +1,2 @@
 - 👋 Hi, I’m bariz / David
-- 🌱 I’m currently learning React & PHP
+- 🌱 I’m learning React & PHP atm
