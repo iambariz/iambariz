@@ -6,7 +6,7 @@
 <ul>
  <li>High amount of coffee consumer </li>
   <li>Web developer student </li>
-  <li>Looking for placement  </li>
+  <li>Looking for a placement  </li>
 
 </ul>
 <p>
