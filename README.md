@@ -5,9 +5,8 @@
 <h4>Little about me:</h4>
 <ul>
  <li>High amount of coffee consumer </li>
-  <li>Currently studying PHP & MYSQL </li>
   <li>Web developer student </li>
-  <li>Waiting for collaborations  </li>
+  <li>Looking for placement  </li>
 
 </ul>
 <p>
