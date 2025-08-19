@@ -5,10 +5,9 @@
 <h4>Here's a little about me:</h4>
 <ul>
  <li>Full‑stack software developer based in Edinburgh, UK 💻</li>
- <li>Passionate about building scalable, user‑friendly web applications 🚀</li>
+ <li>Passionate about building scalable, user‑friendly applications 🚀</li>
  <li>Coffee enthusiast ☕ and avid chess player ♟</li>
- <li>Portfolio website — <em>work in progress</em> 🛠</li>
-</ul>
+ <li>🌐 Check out my <a href="barizdev.com" target="_blank">portfolio website</a></li></ul>
 
 <p>
   Thanks for stopping by! Feel free to explore my repositories to see some of the projects I’ve been working on.
