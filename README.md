@@ -7,7 +7,7 @@
  <li>Full‑stack software developer based in Edinburgh, UK 💻</li>
  <li>Passionate about building scalable, user‑friendly applications 🚀</li>
  <li>Coffee enthusiast ☕ and avid chess player ♟</li>
- <li>Check out my <a href="https://www.dmbarkanyi.com" target="_blank">portfolio website</a> 🌐 </li></ul>
+ <li>Check out my <a href="https://dmbarkanyi.com" target="_blank">portfolio website</a> 🌐 </li></ul>
 
 <p>
   Thanks for stopping by! Feel free to explore my repositories to see some of the projects I’ve been working on.
